@@ -1,0 +1,68 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-11-09 00:33-0500\n"
+"PO-Revision-Date: 2012-11-09 13:35+0200\n"
+"Last-Translator: AlanJAS <alanjas@hotmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "Jump"
+msgstr "Saltar"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid "A solitaire game with some levels"
+msgstr "Un juego de solitario con varios niveles"
+
+#: activity.py:52
+msgid "Levels"
+msgstr "Niveles"
+
+#: activity.py:58
+msgid "Cross"
+msgstr "Cruz"
+
+#: activity.py:59
+msgid "Cross 2"
+msgstr "Cruz 2"
+
+#. TRANS:'chimney' - the place where you make fire
+#: activity.py:61
+msgid "Hearth"
+msgstr "Chimenea"
+
+#: activity.py:62
+msgid "Arrow"
+msgstr "Flecha"
+
+#: activity.py:63
+msgid "Pyramid"
+msgstr "Pirámide"
+
+#: activity.py:64
+msgid "Diamond"
+msgstr "Diamante"
+
+#: activity.py:65
+msgid "Solitaire"
+msgstr "Solitario"
+
+#: activity.py:78 activity.py:107
+msgid "Sound"
+msgstr "Sonido"
+
+#: activity.py:104
+msgid "No sound"
+msgstr "Sin sonido"
